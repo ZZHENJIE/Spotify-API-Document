@@ -1,3 +1,6 @@
 * [简介](README.md)
 * [获取Token](/Docs/GetToken.md)
 * [获取音乐信息](/Docs/GetMusicInfo.md)
+* [获取搜索信息](/Docs/GetSearch.md)
+* [获取专辑信息](/Docs/GetAlbumInfo.md)
+* [获取专辑歌曲](/Docs/GetAlbumMusic.md)
